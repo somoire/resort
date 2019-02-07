@@ -1,0 +1,16 @@
+h1 {
+  color: red;
+}
+h2 {
+  font-style: italic;
+  color: red;
+  text-align: centre;
+}
+p {
+  color: crimson;
+}
+body {
+  background-color: skyblue;
+  font-family: sans-serif;
+  text-align: centre;
+}
